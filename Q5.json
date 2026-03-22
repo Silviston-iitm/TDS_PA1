@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial satellite photograph of the Amazon rainforest where the remaining green forest canopy forms the exact shape of human lungs, bronchial tree pattern visible in the tree lines, surrounded by vast brown deforested land, hyperrealistic, dramatic contrast",
+  "model": "DALL-E 3",
+  "dataset_name": "Global Forest Watch - Tree Cover Loss",
+  "dataset_url": "https://www.globalforestwatch.org/dashboards/global/",
+  "insight": "The Amazon has lost over 17% of its forest cover in 50 years, mirroring progressive lung disease at a planetary scale"
+}
