@@ -1,0 +1,6 @@
+{
+  "prompt": "An elderly master tailor in a warm sunlit workshop meticulously cutting fabric with large scissors to fit one specific mannequin with extreme precision, fabric scraps everywhere, warm golden light, photorealistic cinematic",
+  "model": "DALL-E 3",
+  "concept": "Overfitting",
+  "metaphor": "A tailor cuts fabric with extreme precision for one specific body; like an overfitted model it fits the training example perfectly but will fail to fit any other body"
+}
